@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...ildember98@gmail.com
 
 <!---
 ildem96/ildem96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
