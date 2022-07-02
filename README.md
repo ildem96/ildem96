@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal projects<br><br>🌱 I’m currently learning Front-end/HTML Web Developer at Dio.me development<br><br>🎓 Cibersecurity Student, 5th period<br><br>👨‍💻 All of my projects are available at https://github.com/ildem96?tab=repositories<br><br>📫 How to reach me ildember@hotmail.com
+🔭 I’m currently working on Personal projects to increase my programming skills<br><br>🌱 I’m currently learning Front-end/HTML,CSS & JavaScript Web Developer at Dio.me development<br><br>🎓 Cibersecurity Student, 5th period at Estácio de Sá University <br><br>👨‍💻 All of my projects are available at https://github.com/ildem96?tab=repositories<br><br>📫 How to reach me ildember@hotmail.com
 
 
 ## 🌐 Socials:
