@@ -1,38 +1,28 @@
-# 💫 Hi there,welcome to my profile
-# 💫 Olá, bem vindo ao meu perfil
-# 💫 您好，欢迎来到 
-# 💫 Hola, bienvenido a mi perfil
+![MasterHead](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg)
+<h1 align="center">Hi 👋, I'm Ildemberg</h1>
+<h3 align="center">A passionate front-End developer from Brasil</h3>
 
-🔭 I’m currently working on Personal projects to increase my programming skills<br><br>🌱 I’m currently learning Front-End/HTML,CSS & JavaScript Web Developer at Dio.me <br><br>🎓 Cibersecurity Student, 5th period at Estácio de Sá University <br><br>👨‍💻 All of my projects are available at https://github.com/ildem96?tab=repositories<br><br>📫 How to reach me ildember96@gmail.com
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ildem96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ildemberg-g-ferreira-5282121b2/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Obsidian](https://img.shields.io/badge/Obsidian-%231572B6.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+<img width="480" height="480" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 
 
-(<a target="_blank" rel="noopener noreferrer" href="https://https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" >
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100% ;"></a>)
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ildem96&label=Profile%20views&color=0e75b6&style=flat" alt="ildem96" /> </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ildem96&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ildem96&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ildem96&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Web Development**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ildem96&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- 👨‍💻 All of my projects are available at [https://github.com/ildem96](https://github.com/ildem96)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 📫 How to reach me **https://www.linkedin.com/in/ildemberg-g-5282121b2/**
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/ildem96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ildem96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ildemberg-g-5282121b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ildemberg-g-5282121b2/" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ildem96&icon=8&color=7)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ildem96&show_icons=true&locale=en" alt="ildem96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ildem96&" alt="ildem96" /></p>
