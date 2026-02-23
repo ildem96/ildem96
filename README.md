@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ildem96), [Codeberg](https://codeberg.org/ildem96) or [Codepen](https://codepen.io/Ildem96)
+- 👨‍💻 All of my projects are available at [Codeberg](https://codeberg.org/ildem96) or [Codepen](https://codepen.io/Ildem96)
 
 - 📫 How to reach me **[Codeberg](https://codeberg.org/ildem96) or [Codepen](https://codepen.io/Ildem96)**
 
