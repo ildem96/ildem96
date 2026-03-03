@@ -29,11 +29,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/ildem96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ildem96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ildemberg-g-5282121b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ildemberg-g-5282121b2/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ildemberg-g-5282121b2/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ildemberg-g-5282121b2/" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ildem96&show_icons=true&locale=en" alt="Ildem96" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ildem96&" alt="Ildem96" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ildem96&show_icons=true&locale=en&layout=compact" alt="Ildem96" /></p>
+
