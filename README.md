@@ -35,4 +35,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ildem96&" alt="Ildem96" /></p>
+<br>
+<div>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=ildem96&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildem96&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
