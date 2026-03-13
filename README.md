@@ -34,7 +34,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ildem96&" alt="Ildem96" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildem96&layout=compact&langs_count=16&theme=dark"/>
+<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ildem96&" alt="Ildem96" />
+  <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildem96&layout=compact&langs_count=16&theme=dark"/></p>
 
 
