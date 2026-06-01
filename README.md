@@ -1,33 +1,54 @@
 ![MasterHead](https://raw.githubusercontent.com/ildem96/Projeto-Final-Calc/refs/heads/master/assests/github-header-banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Ildemberg</h1>
-<h3 align="center">A passionate front-End developer from Brasil</h3>
+# Olá, eu sou o Ildem96 👋
 
-<img align="right" width="200" height="200" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJreGdvbXhjbW0yYXAwdWw3dGZvb2VtM3ZxamNsOHAxcHRhM2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend_Developer-🚀-blue?style=flat-square" alt="Frontend">
+  <img src="https://img.shields.io/badge/Localização-Brasil_🇧🇷-green?style=flat-square" alt="Brasil">
+</p>
 
+Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e interativas. Sempre focado em transformar ideias em códigos limpos e eficientes.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ildem96&label=Profile%20views&color=0e75b6&style=flat" alt="ildem96" /> </p>
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-- 🌱 I’m currently learning **Web Development**
+### 💻 Frontend & Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [Codeberg](https://codeberg.org/ildem96) or [Codepen](https://codepen.io/Ildem96)
+### ⚙️ Backend & Mobile
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 📫 How to reach me **[Codeberg](https://codeberg.org/ildem96) or [Codepen](https://codepen.io/Ildem96)**
+### 🎨 Design & Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+---
 
+## 📊 Estatísticas e Histórico
 
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ildem96&" alt="Ildem96" /> <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ildem96&layout=compact&langs_count=16&theme=dark"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ildem96&theme=dark" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ildem96&theme=github-dark&area=true&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de Atividade" width="100%" />
+</p>
 
+---
+
+## ⚡ Onde me encontrar
+
+<p align="left">
+  <a href="https://codepen.io/Ildem96" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</p>
