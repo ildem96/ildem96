@@ -36,7 +36,7 @@ Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e
 ## 📊 Estatísticas e Histórico
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ildem96&theme=dark" alt="GitHub Streak" />
+  ### Github Streak
 </p>
 
 <p align="center">
