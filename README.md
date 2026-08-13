@@ -36,7 +36,7 @@ Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e
 ## 📊 Estatísticas e Histórico
 
 <p align="center">
-  ###Github Streak
+  <h3>Github Streak</h3>
 </p>
 
 <p align="center">
