@@ -82,7 +82,7 @@
   <a href="https://codepen.io/Ildem96" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-FF00FF?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-  <a href="ninja-unarmored51@bravealias.com" target="_blank">
+  <a href="mailto:ninja-unarmored51@bravealias.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="www.linkedin.com/in/ildemberg-g-5282121b2" target="_blank">
