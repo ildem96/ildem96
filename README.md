@@ -34,7 +34,7 @@ Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Lunacy](https://img.shields.io/badge/Lunacy-4050F8?style=flat&logoColor=white)
+![Lunacy](https://img.shields.io/badge/Design-Lunacy-179DE3?style=for-the-badge&logo=lunacy&logoColor=white)
 
 ---
 
