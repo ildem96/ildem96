@@ -86,6 +86,6 @@
     <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="www.linkedin.com/in/ildemberg-g-5282121b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
   </a>
 </div>
