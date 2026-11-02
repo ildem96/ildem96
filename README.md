@@ -15,7 +15,7 @@
 
 ## 🚀 Professional Summary | What I Bring to the Table
 
-> *Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e interativas. Sempre focado em transformar ideias em códigos limpos e eficientes.*[cite: 1]
+> *Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e interativas. Sempre focado em transformar ideias em códigos limpos e eficientes.*
 
 * **User-Centric Design:** Bridging the gap between aesthetic design and functional performance.
 * **Modern Stack Proficiency:** Fast, responsive, and scalable development using React, Tailwind, and Node.js.
