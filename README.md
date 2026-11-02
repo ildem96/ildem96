@@ -1,59 +1,91 @@
-![MasterHead](https://raw.githubusercontent.com/ildem96/ildem96/refs/heads/main/github-header-banner%20(1).png)
-# Olá, eu sou o Ildem96 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ildem96/ildem96/refs/heads/main/github-header-banner%20(1).png" alt="MasterHead" width="100%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend_Developer-🚀-blue?style=flat-square" alt="Frontend">
-  <img src="https://img.shields.io/badge/Localização-Brasil_🇧🇷-green?style=flat-square" alt="Brasil">
-</p>
-
-Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e interativas. Sempre focado em transformar ideias em códigos limpos e eficientes.
+  <!-- Animated Text Reveal (Simulating CSS motion) -->
+  <a href="https://github.com/ildem96">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Ildem96+%F0%9F%91%8B;Frontend+Developer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  </a>
+  <br>
+  
+  <img src="https://img.shields.io/badge/Frontend_Developer-🚀-FF00FF?style=for-the-badge&logoColor=white" alt="Frontend">
+  <img src="https://img.shields.io/badge/Localização-Brasil_🇧🇷-00FFFF?style=for-the-badge&logoColor=black" alt="Brasil">
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Professional Summary | What I Bring to the Table
 
-### 💻 Frontend & Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+> *Um desenvolvedor frontend apaixonado por criar interfaces modernas, dinâmicas e interativas. Sempre focado em transformar ideias em códigos limpos e eficientes.*[cite: 1]
+
+* **User-Centric Design:** Bridging the gap between aesthetic design and functional performance.
+* **Modern Stack Proficiency:** Fast, responsive, and scalable development using React, Tailwind, and Node.js.
+* **Problem Solver:** Dedicated to clean code, semantic structures, and continuous learning.
+
+---
+
+## 🕹️ Skills & Tools Grid
+
+<div align="center">
+  
+### 💻 Frontend & Languages
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=black">
+<img src="https://img.shields.io/badge/Tailwind_CSS-00FFFF?style=for-the-badge&logo=tailwind-css&logoColor=black">
+<img src="https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-8A2BE2?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Apps_Script-FFFF00?style=for-the-badge&logo=googleappsscript&logoColor=black">
 
 ### ⚙️ Backend & Mobile
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-3880FF?style=for-the-badge&logo=electron&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Backend-Google_Apps_Script-0F9D58?style=for-the-badge&logo=googleappsscript&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-FF00FF?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Electron-00FFFF?style=for-the-badge&logo=electron&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-FFFF00?style=for-the-badge&logo=mongodb&logoColor=black">
+<img src="https://img.shields.io/badge/Backend-Google_Apps_Script-8A2BE2?style=for-the-badge&logo=googleappsscript&logoColor=white">
 
+### 🎨 Design & Tools
+<img src="https://img.shields.io/badge/Figma-FF00FF?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-00FFFF?style=for-the-badge&logo=adobephotoshop&logoColor=black">
+<img src="https://img.shields.io/badge/Lunacy-8A2BE2?style=for-the-badge&logo=lunacy&logoColor=white">
+<img src="https://img.shields.io/badge/Git-FFFF00?style=for-the-badge&logo=git&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white">
 
-### 🎨 Design & Ferramentas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Lunacy](https://img.shields.io/badge/Design-Lunacy-179DE3?style=for-the-badge&logo=lunacy&logoColor=white)
+</div>
 
 ---
 
 ## 📊 Estatísticas e Histórico
 
-<p align="center">
-  <h3>Github Streak</h3>
-</p>
+<div align="center">
+  
+  <!-- O título não pode conter acentos para evitar que o proxy do GitHub quebre a imagem -->
+  <a href="https://github.com/ildem96">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ildem96&theme=radical&area=true&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de Atividade" width="100%" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ildem96&theme=github-dark&area=true&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de Atividade" width="100%" />
-</p>
+  <br><br>
+  
+  <!-- URL ajustado sem a barra extra para prevenir erros de 404 na API -->
+  <a href="https://github.com/ildem96">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ildem96&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+  </a>
+
+</div>
 
 ---
 
-## ⚡ Onde me encontrar
+## 📞 Contact Me
 
-<p align="left">
+<div align="center">
+  <p>Let's build something awesome together.</p>
+  
   <a href="https://codepen.io/Ildem96" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+    <img src="https://img.shields.io/badge/CodePen-FF00FF?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-</p>
+  <a href="ninja-unarmored51@bravealias.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/ildemberg-g-5282121b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
